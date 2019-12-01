@@ -27,8 +27,8 @@ We will use this repository to maintain all your submissions. Use the following 
 
 ### Task 0
 
-- Create your branch
-- Add a "README.md" file with the stuff in task0template.md file
+- Create your branch and checkout it
+- Overwrite the "README.md" file with the stuff in task0template.md file
 - Submit it 
 - Setup C on your computer
 

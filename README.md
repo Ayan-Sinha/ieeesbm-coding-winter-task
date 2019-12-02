@@ -6,8 +6,8 @@ The winter task has been divided into weeks. You are requested to complete each 
 
 - Install git
 - Sign up on GitHub
-- Fork this repository
-- Clone it on your machine
+- Send us your GitHub username (We'll add you as a collaborator)
+- Clone this repository (https://github.com/InfiniteVerma/ieeesbm-coding-winter-task) on your machine
 - Create a branch with branch name: "firstname-lastname"
 - **You submissions should be done to this branch. NOT MASTER**
 
@@ -19,10 +19,7 @@ We will use this repository to maintain all your submissions. Use the following 
 
 - Do your necessary work in your **created branch**. 
 - git add, commit, push
-- Go to your profile (github.com/username) and open your forked copy of this repository
-- Search for the button (**Pull Request**)
-- Click on that and follow the instructions that follow
-- **See this:** https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
+- Go to this repository (https://github.com/InfiniteVerma/ieeesbm-coding-winter-task) and check the changes in your branch
 
 ------
 

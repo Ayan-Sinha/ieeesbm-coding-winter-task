@@ -22,6 +22,7 @@ We will use this repository to maintain all your submissions. Use the following 
 - Go to your profile (github.com/username) and open your forked copy of this repository
 - Search for the button (**Pull Request**)
 - Click on that and follow the instructions that follow
+- **See this:** https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
 
 ------
 
